@@ -1,0 +1,37 @@
+Component,Description,Quantity,Unit Price (INR),Total Price (INR),Purchase Link
+ESP32 Dev Board (38-pin),Main microcontroller with built-in WiFi + Bluetooth,1,349,349,https://robu.in/product/esp32-development-board-wifi-bluetooth-ultra-low-power-consumption-dual-cores/
+DFPlayer Mini,MP3 decoder module with SD card reader,1,149,149,https://robu.in/product/dfplayer-mini-mp3-module/
+MicroSD Card 32GB,FAT32 formatted storage for MP3 files,1,299,299,https://www.amazon.in/s?k=32gb+microsd+card
+SSD1306 OLED 1.3" I2C,128x64 display module,1,229,229,https://robu.in/product/1-3-inch-i2c-iic-oled-lcd-display-module-blue/
+TP4056 USB-C Charging Module,Li-Ion battery charger IC with protection (SOP-8),1,49,49,https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection/
+ME6211C33M5 LDO Regulator,3.3V low dropout regulator SOT-23-5,2,18,36,https://www.amazon.in/s?k=ME6211C33M5
+PAM8403 Amplifier Module,3W stereo class-D audio amplifier,1,79,79,https://robu.in/product/pam8403-module-with-switch/
+18650 Li-Ion Battery 3000mAh,Rechargeable cell (Samsung/LG branded),2,299,598,https://www.amazon.in/s?k=samsung+18650+3000mah
+18650 Battery Holder 2-cell,Holds 2x 18650 in series/parallel,1,59,59,https://robu.in/product/2-x-18650-battery-holder/
+JST-PH 2mm 2-pin Connector,Battery connector pair (male + female),2,19,38,https://robu.in/product/jst-ph-2-0-2pin-connector-male-female-pair/
+3.5mm Headphone Jack (SMD),Stereo audio output connector,1,29,29,https://www.amazon.in/s?k=3.5mm+headphone+jack+pcb+smd
+USB-C Receptacle (SMD),USB-C port for charging (HRO TYPE-C-31-M-12),1,39,39,https://www.amazon.in/s?k=usb+c+receptacle+smd+pcb
+Tactile Push Button 6x6mm,Click wheel buttons (play/pause/next/prev/select),10,5,50,https://robu.in/product/6x6x5mm-4pin-tactile-push-button-micro-switch/
+Slide Switch KCD11,Power ON/OFF switch,1,15,15,https://robu.in/product/ss12d00g3-2-position-slide-switch/
+Resistor 1.2kΩ 0402 SMD,TP4056 PROG pin - sets 1A charge current,2,1,2,https://robu.in/product/smd-resistor-kit/
+Resistor 1kΩ 0402 SMD,ESP32 TX to DFPlayer RX protection + LED resistors,5,1,5,https://robu.in/product/smd-resistor-kit/
+Resistor 100Ω 0402 SMD,Headphone channel protection (L + R),2,1,2,https://robu.in/product/smd-resistor-kit/
+Resistor 5.1kΩ 0402 SMD,USB-C CC1 and CC2 pull-down resistors,2,1,2,https://robu.in/product/smd-resistor-kit/
+Resistor 10kΩ 0402 SMD,TP4056 TEMP pin disable + button pull-ups,6,1,6,https://robu.in/product/smd-resistor-kit/
+Capacitor 100nF 0402 SMD,Decoupling caps on every IC VCC pin,20,2,40,https://robu.in/product/smd-capacitor-kit/
+Capacitor 1µF 0402 SMD,ME6211 VOUT bulk capacitor,2,3,6,https://robu.in/product/smd-capacitor-kit/
+Capacitor 10µF 0805 SMD,Bulk decoupling on 5V and 3.3V rails,2,5,10,https://robu.in/product/smd-capacitor-kit/
+LED Red 0805 SMD,TP4056 CHRG indicator,1,3,3,https://robu.in/product/smd-led-kit/
+LED Green 0805 SMD,TP4056 STDBY (full charge) indicator,1,3,3,https://robu.in/product/smd-led-kit/
+PCB (JLCPCB - 5 boards),2-layer 62x104mm white soldermask,5,120,600,https://jlcpcb.com
+Pin Headers 2.54mm Male,ESP32 + DFPlayer socket headers,4,25,100,https://robu.in/product/40-pin-2-54mm-single-row-pin-header/
+Perfboard / Prototype PCB,For breadboard prototype phase,1,49,49,https://robu.in/product/perfboard/
+Jumper Wires,Male-male and male-female for prototyping,1,99,99,https://robu.in/product/jumper-wire-pack/
+White PLA Filament (250g),For 3D printing the iPod enclosure,1,299,299,https://www.amazon.in/s?k=white+pla+filament+1.75mm
+Acrylic Sheet 2mm White A4,For click wheel disc (laser cut or hand cut),1,149,149,https://www.amazon.in/s?k=white+acrylic+sheet+2mm
+White Spray Primer,Enclosure surface finish,1,249,249,https://www.amazon.in/s?k=white+spray+primer
+M2 Screws + Nuts (pack),Mounting PCB inside enclosure,1,79,79,https://robu.in/product/m2-screw-nut-set/
+Solder Wire 60/40,For PCB assembly,1,149,149,https://robu.in/product/solder-wire/
+Flux Pen,SMD soldering aid,1,129,129,https://robu.in/product/flux-pen/
+,,,,, 
+TOTAL,,,, 3880,
