@@ -2,7 +2,7 @@ Component,Description,Quantity,Unit Price (INR),Total Price (INR),Purchase Link
 ESP32 Dev Board (38-pin),Main microcontroller with built-in WiFi + Bluetooth,1,349,349,https://robu.in/product/esp32-development-board-wifi-bluetooth-ultra-low-power-consumption-dual-cores/
 DFPlayer Mini,MP3 decoder module with SD card reader,1,149,149,https://robu.in/product/dfplayer-mini-mp3-module/
 MicroSD Card 32GB,FAT32 formatted storage for MP3 files,1,299,299,https://www.amazon.in/s?k=32gb+microsd+card
-SSD1306 OLED 1.3"" I2C,128x64 display module,1,229,229,https://robu.in/product/1-3-inch-i2c-iic-oled-lcd-display-module-blue/
+SSD1306 OLED 1.3 I2C,128x64 display module,1,229,229,https://robu.in/product/1-3-inch-i2c-iic-oled-lcd-display-module-blue/
 TP4056 USB-C Charging Module,Li-Ion battery charger IC with protection (SOP-8),1,49,49,https://robu.in/product/tp4056-1a-li-ion-lithium-battery-charging-module-with-current-protection/
 ME6211C33M5 LDO Regulator,3.3V low dropout regulator SOT-23-5,2,18,36,https://www.amazon.in/s?k=ME6211C33M5
 PAM8403 Amplifier Module,3W stereo class-D audio amplifier,1,79,79,https://robu.in/product/pam8403-module-with-switch/
