@@ -1,8 +1,10 @@
-Title: "RetroPlay"
-author: "Tejas Yadac"
-description: "This is a mp3 player , bringing the old taste of music . Its heavily inspired by Apple Ipod , so shout out to Steve Jobs .."
-Created_At: "08/05/2026"
 ---
+title: "RetroPlay"
+author: "Tejas Yadav"
+description: "Ipod inspired Mp3 Player"
+created_at: "08-05-2026"
+---
+
 
 # Day 1 (08/05/2026): Some Planing and Desiging work
 
